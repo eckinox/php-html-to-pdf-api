@@ -1,0 +1,24 @@
+{
+	"name" : "eckinox/php-html-to-pdf-api",
+	"description" : "A slim PHP API that generates PDFs from HTML",
+	"keywords" : [
+		"PHP",
+		"API",
+		"Puppeteer",
+		"PDF",
+		"Screenshot"
+	],
+	"homepage" : "http://github.com/eckinox/php-html-to-pdf-api",
+	"authors" : [
+		{
+		{
+			"name": "Émile Perron",
+			"email": "contact@emileperron.com",
+			"role": "Maintainer"
+		}
+	],
+	"license" : "MIT",
+	"require" : {
+        "eckinox/php-puppeteer": "^0.2.1"
+    }
+}
